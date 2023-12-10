@@ -12,7 +12,7 @@ replace (
 )
 
 require (
-	cuelang.org/go v0.6.0
+	cuelang.org/go v0.7.0
 	fortio.org/fortio v1.60.3
 	github.com/99designs/gqlgen v0.17.39
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
@@ -108,7 +108,7 @@ require (
 	github.com/chzyer/readline v1.5.1 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/cncf/xds/go v0.0.0-20230607035331-e9ce68804cb4 // indirect
-	github.com/cockroachdb/apd/v3 v3.2.0 // indirect
+	github.com/cockroachdb/apd/v3 v3.2.1 // indirect
 	github.com/compose-spec/compose-go v1.19.0 // indirect
 	github.com/containerd/containerd v1.7.6 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
