@@ -34,7 +34,7 @@ require (
 	github.com/jarcoal/httpmock v1.3.1
 	github.com/jinzhu/copier v0.3.5
 	github.com/layer5io/gowrk2 v0.6.1
-	github.com/layer5io/meshery-operator v0.6.15
+	github.com/layer5io/meshery-operator v0.6.17
 	github.com/layer5io/meshkit v0.7.0
 	github.com/layer5io/meshsync v0.6.24
 	github.com/layer5io/nighthawk-go v1.0.3
@@ -140,7 +140,7 @@ require (
 	github.com/go-git/go-git/v5 v5.9.0 // indirect
 	github.com/go-gorp/gorp/v3 v3.1.0 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
-	github.com/go-logr/logr v1.2.4 // indirect
+	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.21.4 // indirect
 	github.com/go-openapi/errors v0.20.4 // indirect
